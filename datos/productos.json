@@ -1,0 +1,212 @@
+[
+  {
+    "id": "P001",
+    "nombre": "Samsung Galaxy A36 5G",
+    "descripcion": "Smartphone con 8 GB de RAM y 256 GB de almacenamiento.",
+    "precio": 388.53,
+    "imagen": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P002",
+    "nombre": "Laptop HP 250 G9",
+    "descripcion": "Laptop ideal para trabajo, estudio y desarrollo de software.",
+    "precio": 649.99,
+    "imagen": "https://qwertyshop.ua/uploads/product/2023-10-2/magazin-qwertyshop-hp-250-g9-85a38ea-dark-ash-silver.jpg"
+  },
+  {
+    "id": "P003",
+    "nombre": "Mouse inalámbrico Logitech",
+    "descripcion": "Mouse óptico inalámbrico con receptor USB y diseño ergonómico.",
+    "precio": 24.99,
+    "imagen": "https://m.media-amazon.com/images/I/51l3B-InDpL.jpg"
+  },
+  {
+    "id": "P004",
+    "nombre": "JBL Live 770NC",
+    "descripcion": "Audífonos inalámbricos over-ear con cancelación de ruido.",
+    "precio": 149.99,
+    "imagen": "https://m.media-amazon.com/images/I/71f1bQmQqVL.jpg"
+  },
+  {
+    "id": "P005",
+    "nombre": "Smartwatch deportivo",
+    "descripcion": "Reloj inteligente con pantalla táctil y funciones deportivas.",
+    "precio": 89.99,
+    "imagen": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P006",
+    "nombre": "Teclado mecánico Keychron",
+    "descripcion": "Teclado mecánico inalámbrico para programación y gaming.",
+    "precio": 129.99,
+    "imagen": "https://keychron.co.nz/cdn/shop/files/Keychron-Q3-Max-QMK-VIA-wireless-custom-mechanical-keyboard.jpg"
+  },
+  {
+    "id": "P007",
+    "nombre": "Xiaomi Redmi Pad 2",
+    "descripcion": "Tablet de 11 pulgadas con 8 GB de RAM y 256 GB de almacenamiento.",
+    "precio": 274.99,
+    "imagen": "https://710tech.com.ar/media/catalog/product/r/e/redmi_pad_2.jpg"
+  },
+  {
+    "id": "P008",
+    "nombre": "Canon EOS M5",
+    "descripcion": "Cámara digital mirrorless con sensor de 24.2 MP.",
+    "precio": 599.99,
+    "imagen": "https://www.bhphotovideo.com/images/images2500x2500/canon_1279c011_eos_m5_mirrorless_digital_1282162.jpg"
+  },
+  {
+    "id": "P009",
+    "nombre": "JBL Go 4",
+    "descripcion": "Parlante Bluetooth portátil compacto para música.",
+    "precio": 49.95,
+    "imagen": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6583/6583088_sd.jpg"
+  },
+  {
+    "id": "P010",
+    "nombre": "Monitor Gaming 27 pulgadas",
+    "descripcion": "Monitor de 27 pulgadas ideal para gaming, diseño y desarrollo.",
+    "precio": 299.99,
+    "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P011",
+    "nombre": "iPhone 15",
+    "descripcion": "Smartphone Apple con pantalla Super Retina y cámara avanzada.",
+    "precio": 799.99,
+    "imagen": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P012",
+    "nombre": "MacBook Air M2",
+    "descripcion": "Laptop Apple ligera y potente para productividad y desarrollo.",
+    "precio": 999.99,
+    "imagen": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P013",
+    "nombre": "Dell Inspiron 15",
+    "descripcion": "Laptop de 15 pulgadas para oficina, educación y uso empresarial.",
+    "precio": 699.99,
+    "imagen": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P014",
+    "nombre": "PC Gamer RGB",
+    "descripcion": "Computadora de escritorio para videojuegos, diseño y edición multimedia.",
+    "precio": 1299.99,
+    "imagen": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P015",
+    "nombre": "PlayStation 5",
+    "descripcion": "Consola de videojuegos de nueva generación con almacenamiento SSD.",
+    "precio": 549.99,
+    "imagen": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P016",
+    "nombre": "Xbox Series X",
+    "descripcion": "Consola de alto rendimiento para videojuegos en resolución 4K.",
+    "precio": 499.99,
+    "imagen": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P017",
+    "nombre": "iPad Air",
+    "descripcion": "Tablet versátil para estudio, diseño, entretenimiento y productividad.",
+    "precio": 699.99,
+    "imagen": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P018",
+    "nombre": "Samsung Galaxy Tab",
+    "descripcion": "Tablet Android con pantalla de alta resolución para trabajo y entretenimiento.",
+    "precio": 429.99,
+    "imagen": "https://images.unsplash.com/photo-1585790050230-5dd28404ccb9?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P019",
+    "nombre": "Apple Watch Series",
+    "descripcion": "Reloj inteligente con monitoreo deportivo y conectividad avanzada.",
+    "precio": 399.99,
+    "imagen": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P020",
+    "nombre": "Router WiFi 6",
+    "descripcion": "Router inalámbrico de alta velocidad para hogares y pequeñas empresas.",
+    "precio": 119.99,
+    "imagen": "https://images.unsplash.com/photo-1647427060118-4911c9821b82?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P021",
+    "nombre": "Disco SSD 1TB",
+    "descripcion": "Unidad SSD de 1 TB para mejorar el rendimiento y almacenamiento del computador.",
+    "precio": 79.99,
+    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P022",
+    "nombre": "Memoria RAM 16GB DDR4",
+    "descripcion": "Memoria RAM de 16 GB para mejorar el rendimiento de computadores.",
+    "precio": 44.99,
+    "imagen": "https://images.unsplash.com/photo-1562976540-1502c2145186?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P023",
+    "nombre": "Tarjeta gráfica RTX",
+    "descripcion": "Tarjeta gráfica dedicada para gaming, edición de video y aplicaciones 3D.",
+    "precio": 699.99,
+    "imagen": "https://images.unsplash.com/photo-1591488320449-011701bb6704?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P024",
+    "nombre": "Webcam Full HD",
+    "descripcion": "Cámara web Full HD para videoconferencias, clases virtuales y streaming.",
+    "precio": 59.99,
+    "imagen": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P025",
+    "nombre": "Impresora Multifunción Epson",
+    "descripcion": "Impresora multifunción con funciones de impresión, copia y escaneo.",
+    "precio": 229.99,
+    "imagen": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P026",
+    "nombre": "UPS 1000VA",
+    "descripcion": "Sistema de respaldo eléctrico para proteger computadores y equipos electrónicos.",
+    "precio": 119.99,
+    "imagen": "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P027",
+    "nombre": "Disco Externo 2TB",
+    "descripcion": "Disco duro externo de 2 TB para copias de seguridad y almacenamiento.",
+    "precio": 89.99,
+    "imagen": "https://images.unsplash.com/photo-1597872200969-2b65d56bd16b?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P028",
+    "nombre": "Audífonos Bluetooth",
+    "descripcion": "Audífonos inalámbricos compactos con estuche de carga.",
+    "precio": 69.99,
+    "imagen": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P029",
+    "nombre": "Micrófono USB Profesional",
+    "descripcion": "Micrófono USB ideal para streaming, podcast, clases y reuniones virtuales.",
+    "precio": 109.99,
+    "imagen": "https://images.unsplash.com/photo-1590602847861-f357a9332bbc?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "P030",
+    "nombre": "Proyector Full HD",
+    "descripcion": "Proyector Full HD para presentaciones, clases, películas y entretenimiento.",
+    "precio": 349.99,
+    "imagen": "https://images.unsplash.com/photo-1478720568477-152d9b164e26?auto=format&fit=crop&w=800&q=80"
+  }
+]
